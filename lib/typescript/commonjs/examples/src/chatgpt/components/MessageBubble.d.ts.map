@@ -1,0 +1,1 @@
+{"version":3,"file":"MessageBubble.d.ts","sourceRoot":"","sources":["../../../../../../../examples/src/chatgpt/components/MessageBubble.tsx"],"names":[],"mappings":"AAcA,KAAK,kBAAkB,GAAG;IACxB,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,EAAE,MAAM,GAAG,WAAW,CAAC;IAC3B,WAAW,CAAC,EAAE,OAAO,CAAC;IACtB,WAAW,CAAC,EAAE,OAAO,CAAC;CACvB,CAAC;AAEF,eAAO,MAAM,aAAa,GAAI,2CAK3B,kBAAkB,4CAmGpB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"names":["_StreamingMessageList","require","_AnchorItem","_StreamingItem","_StreamingMessageListContext"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,IAAAA,qBAAA,GAAAC,OAAA;AACA,IAAAC,WAAA,GAAAD,OAAA;AACA,IAAAE,cAAA,GAAAF,OAAA;AACA,IAAAG,4BAAA,GAAAH,OAAA","ignoreList":[]}

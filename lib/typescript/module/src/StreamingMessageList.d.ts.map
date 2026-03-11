@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamingMessageList.d.ts","sourceRoot":"","sources":["../../../../src/StreamingMessageList.tsx"],"names":[],"mappings":"AAiBA,OAAO,KAAK,EACV,yBAAyB,EACzB,uBAAuB,EACxB,MAAM,SAAS,CAAC;AAKjB,eAAO,MAAM,oBAAoB,GAAI,CAAC,EAAG,gMActC,yBAAyB,CAAC,CAAC,CAAC,GAAG;IAChC,GAAG,CAAC,EAAE,KAAK,CAAC,GAAG,CAAC,uBAAuB,CAAC,CAAC;CAC1C,4CA0PA,CAAC"}
